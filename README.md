@@ -6,11 +6,11 @@
 
 ---
 
-🌱 I’m currently learning **ASP.NET Core, Data Structures, Full Stack Development, Cloud**
+🌱 I’m currently learning **Next.js, NestJS, Machine Learning**
 
-💬 Ask me about **C#, ASP.NET, SQL Server, JavaScript, React, DSA**
-
-📫 How to reach me **your-email@gmail.com**
+💬 Ask me about **DSA, JavaScript, React, Data Structure, Java, Python, SQL, C, HTML, CSS**
+ 
+📫 How to reach me **omthoriya@gmail.com**
 
 ⚡ Fun fact **I love building real-world software projects and solving complex problems**
 
@@ -82,15 +82,15 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+<a href="https://www.linkedin.com/in/om-thoriya-a4153328b " target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/>
 </a>
 
-<a href="https://instagram.com/YOUR-LINK" target="_blank">
+<a href="https://www.instagram.com/om_thoriya_4357" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="omthoriya@gmail.com">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52"/>
 </a>
 
