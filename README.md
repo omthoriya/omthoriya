@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg)
+![MasterHead](https://raw.githubusercontent.com/OmThoriya/assets/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Om Thoriya</h1>
 <h3 align="center">Passionate Software Developer from Gujarat, India</h3>
