@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/OmThoriya/assets/main/banner.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*IRGHmiGsa16stedQvIaZfw.gif)
 
 <h1 align="center">Hi 👋, I'm Om Thoriya</h1>
 <h3 align="center">Passionate Software Developer from Gujarat, India</h3>
